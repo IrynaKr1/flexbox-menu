@@ -1,4 +1,10 @@
 :root {
   --main-font: "Cousine", monospace;
   --secondaty-font: "Kalam", cursive;
+  --background: #1f1e1e;
+  --text-color: white;
+}
+
+* {
+  box-sizing: border-box;
 }
