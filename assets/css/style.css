@@ -41,7 +41,6 @@ header {
   flex-wrap: wrap;
 }
 
-.logo,
 .menu,
 .button {
   min-width: 150px;
